@@ -1,32 +1,32 @@
-# Web Development Project 2 - *Chinese FlashCards*
+# Web Development Project 3 - *Name of App Here*
 
 Submitted by: **Gustavo Chavez**
 
 This web app: **is a set of chinese vocabulary words to study for character recognition.**
 
-Time spent: **7** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [X] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [X] **A list of card pairs is created**
-- [X] **Clicking on the card shows the corresponding component of the information pair**
-- [X] **Clicking the next button displays a random new card**
+- [X] **The user can enter their guess in a box before seeing the flipside of the card**
+- [X] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [X] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [X] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [X] Cards contains images in addition to or in place of text
-- [ ] Cards have different visual styles such as color based on their category
-- [ ] *visual style implemented*
+- [X] A shuffle button is used to randomize the order of the cards
+- [ ] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [X] A counter displays the user's current and longest streak of correct responses
+- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented user stories:
 
-<img src='https://www.loom.com/share/71febf9d6d4b4a7885e8d9de2d167dc0?sid=6391e1e1-76d8-40f2-86af-70af2e23325c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/8cb48a8a621b4e799e998a8e49d048b2?sid=14ffe3d3-a6bf-444d-a0c6-8a6f725a5e07' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
@@ -37,7 +37,7 @@ GIF created with Loom
 
 ## Notes
 
-Applying the CSS to the cards and programming the Event handling was a bit difficult.
+Describe any challenges encountered while building the app.
 
 ## License
 
