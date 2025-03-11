@@ -1,4 +1,4 @@
-# Web Development Project 3 - *Name of App Here*
+# Web Development Project 3 - *Chinese FlashCards*
 
 Submitted by: **Gustavo Chavez**
 
@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.loom.com/share/8cb48a8a621b4e799e998a8e49d048b2?sid=14ffe3d3-a6bf-444d-a0c6-8a6f725a5e07' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Watch the video walkthrough](https://www.loom.com/share/8cb48a8a621b4e799e998a8e49d048b2?sid=2091b20b-099d-4024-a22e-54a4ebc271c9)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
